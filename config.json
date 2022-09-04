@@ -1,23 +1,19 @@
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+        "ownerNumber": ["6281364218561@s.whatsapp.net","6281364218561@s.whatsapp.net"],
+    "ownerName": "Fadillོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/kurgaa_",
+    "botName": "Monenaོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
-    "BotKey": "Gsyt6jRJ",
+    "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": true,
-    "anticall": true,
-    "autorespond": false,
-    "autoblok212": true,
-    "autoread": true,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 1000
     }
 }
